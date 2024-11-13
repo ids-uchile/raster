@@ -10,9 +10,6 @@
 - [Usage](#usage)
 - [Example](#example)
 - [Notes](#notes)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
